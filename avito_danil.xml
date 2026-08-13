@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>danil_00306141</Id>
+    <AllowEmail>false</AllowEmail>
+    <Category>Электроника</Category>
+    <GoodsType>Ноутбуки</GoodsType>
+    <Title>Игровой ноутбук MSI Katana 17 B12V (RTX 3050 / I5-</Title>
+    <Description>Напиши описание для объявления на Авито строго по этому шаблону. Меняй только раздел "О модели":
+
+💻 Игровой ноутбук MSI Katana 17 B12V (RTX 3050 / I5-12450H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+[2-3 предложения про MSI Katana 17 B12V с процессором I5-12450H и видеокартой RTX 3050]
+
+⚙️ Характеристики
+
+Процессор — I5-12450H
+Видеокарта — RTX 3050
+Экран — {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/7ea5179b-9225-11f0-0a80-0eed00328773/964ecc9d-9225-11f0-0a80-09be0032e9bc', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/7ea5179b-9225-11f0-0a80-0eed00328773', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_7ea5179b-9225-11f0-0a80-0eed00328773/edit?id=964ecc9d-9225-11f0-0a80-09be0032e9bc'}, 'name': '17,3'} {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/8b26b6d6-92f5-11f0-0a80-16dd000ee8fd', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/edit?id=8b26b6d6-92f5-11f0-0a80-16dd000ee8fd'}, 'name': '1920×1080'}
+ОЗУ — 16 ГБ
+SSD — 512 ГБ
+
+💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>50000</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Brand>MSI</Brand>
+    <DiskType>SSD</DiskType>
+    <DiskSize>512</DiskSize>
+    <RAMSize>16</RAMSize>
+    <OS>Windows 11</OS>
+    <Color>Чёрный</Color>
+    <PowerOn>Включается</PowerOn>
+    <BatteryLife>Больше 30 минут</BatteryLife>
+    <Set>Зарядное устройство, коробка</Set>
+    <KeyboardLayout>Есть кириллица</KeyboardLayout>
+    <BodyCondition>Без дефектов</BodyCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KeyboardCondition>Без дефектов</KeyboardCondition>
+    <Delivery>Самовывоз</Delivery>
+    <Quantity>1</Quantity>
+    <Images>
+      <Image url="https://i.imgur.com/gOCQNRK.jpeg"/>
+      <Image url="https://i.imgur.com/RO4nlNY.jpeg"/>
+      <Image url="https://i.imgur.com/KCAOW9A.jpeg"/>
+      <Image url="https://i.imgur.com/9lQiLri.jpeg"/>
+      <Image url="https://i.imgur.com/DznKQJ9.jpeg"/>
+    </Images>
+  </Ad>
+</Ads>
