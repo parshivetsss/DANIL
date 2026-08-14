@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>danil_00306141</Id>
+    <Id>danil_004a3837</Id>
     <AllowEmail>false</AllowEmail>
-    <Category>Электроника</Category>
-    <GoodsType>Ноутбуки</GoodsType>
-    <Title>Игровой ноутбук MSI Katana 17 B12V (RTX 3050 / I5-</Title>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук MSI Thin GF63 (RTX 3050 / i5-11400</Title>
     <Description>Напиши описание для объявления на Авито строго по этому шаблону. Меняй только раздел "О модели":
 
-💻 Игровой ноутбук MSI Katana 17 B12V (RTX 3050 / I5-12450H)
+💻 Игровой ноутбук MSI Thin GF63 (RTX 3050 / i5-11400H)
 
 Перед заказом — просьба писать в чат!
 
@@ -18,13 +17,13 @@
 
 💻 О модели
 
-[2-3 предложения про MSI Katana 17 B12V с процессором I5-12450H и видеокартой RTX 3050]
+[2-3 предложения про MSI Thin GF63 с процессором i5-11400H и видеокартой RTX 3050]
 
 ⚙️ Характеристики
 
-Процессор — I5-12450H
+Процессор — i5-11400H
 Видеокарта — RTX 3050
-Экран — {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/7ea5179b-9225-11f0-0a80-0eed00328773/964ecc9d-9225-11f0-0a80-09be0032e9bc', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/7ea5179b-9225-11f0-0a80-0eed00328773', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_7ea5179b-9225-11f0-0a80-0eed00328773/edit?id=964ecc9d-9225-11f0-0a80-09be0032e9bc'}, 'name': '17,3'} {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/8b26b6d6-92f5-11f0-0a80-16dd000ee8fd', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/edit?id=8b26b6d6-92f5-11f0-0a80-16dd000ee8fd'}, 'name': '1920×1080'}
+Экран — {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/7ea5179b-9225-11f0-0a80-0eed00328773/bddd23dc-96df-11f0-0a80-0394003baff2', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/7ea5179b-9225-11f0-0a80-0eed00328773', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_7ea5179b-9225-11f0-0a80-0eed00328773/edit?id=bddd23dc-96df-11f0-0a80-0394003baff2'}, 'name': '15.6'} {'meta': {'href': 'https://api.moysklad.ru/api/remap/1.2/entity/customentity/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/8b26b6d6-92f5-11f0-0a80-16dd000ee8fd', 'metadataHref': 'https://api.moysklad.ru/api/remap/1.2/context/companysettings/metadata/customEntities/364b8cd0-92e3-11f0-0a80-1bb4000b2a8c', 'type': 'customentity', 'mediaType': 'application/json', 'uuidHref': 'https://online.moysklad.ru/app/#custom_364b8cd0-92e3-11f0-0a80-1bb4000b2a8c/edit?id=8b26b6d6-92f5-11f0-0a80-16dd000ee8fd'}, 'name': '1920×1080'}
 ОЗУ — 16 ГБ
 SSD — 512 ГБ
 
@@ -43,7 +42,7 @@ SSD — 512 ГБ
 A — новые ноутбуки в заводской коробке и полном комплекте.
 B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
 C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>50000</Price>
+    <Price>47000</Price>
     <Currency>RUB</Currency>
     <Condition>Б/у</Condition>
     <AdType>Товар приобретен на продажу</AdType>
@@ -65,11 +64,11 @@ C — ноутбуки с техническими нюансами, но в р�
     <Delivery>Самовывоз</Delivery>
     <Quantity>1</Quantity>
     <Images>
-      <Image url="https://i.imgur.com/gOCQNRK.jpeg"/>
-      <Image url="https://i.imgur.com/RO4nlNY.jpeg"/>
-      <Image url="https://i.imgur.com/KCAOW9A.jpeg"/>
-      <Image url="https://i.imgur.com/9lQiLri.jpeg"/>
-      <Image url="https://i.imgur.com/DznKQJ9.jpeg"/>
+      <Image url="https://i.imgur.com/I3x0QLb.jpeg"/>
+      <Image url="https://i.imgur.com/CG6uXhO.jpeg"/>
+      <Image url="https://i.imgur.com/vIpHSnv.jpeg"/>
+      <Image url="https://i.imgur.com/oim5DtT.jpeg"/>
+      <Image url="https://i.imgur.com/7Il0Ve3.jpeg"/>
     </Images>
   </Ad>
 </Ads>
