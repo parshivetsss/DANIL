@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>danil_00b3bbb6</Id>
+    <Id>danil_00de998d</Id>
     <AllowEmail>false</AllowEmail>
     <Category>Ноутбуки</Category>
-    <Title>Ноутбук Dell Latitude 3410</Title>
-    <Description>💻 Ноутбук Dell Latitude 3410 (UHD Graphics / i5-10210U)
+    <Title>Игровой ноутбук Thunderobot 911S CORE D</Title>
+    <Description>💻 Игровой ноутбук Thunderobot 911S CORE D (RTX 3050 / i5-12450)
 
 Перед заказом — просьба писать в чат!
 
@@ -15,15 +15,15 @@
 
 💻 О модели
 
-Dell Latitude 3410 — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-10210U и видеокарта UHD Graphics уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+Thunderobot 911S CORE D — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-12450 и видеокарта RTX 3050 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
 
 ⚙️ Характеристики
 
-Процессор — i5-10210U
-Видеокарта — UHD Graphics
-Экран — 14.3" 1920×1080
-ОЗУ — 16 ГБ
-SSD — 512 ГБ
+Процессор — i5-12450
+Видеокарта — RTX 3050
+Экран — 15.6" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
 
 💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
 
@@ -40,17 +40,17 @@ SSD — 512 ГБ
 A — новые ноутбуки в заводской коробке и полном комплекте.
 B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
 C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
-    <Price>28000</Price>
+    <Price>45000</Price>
     <Currency>RUB</Currency>
     <Condition>Б/у</Condition>
     <AdType>Товар приобретен на продажу</AdType>
     <Address>Москва, Будайский пр., 7к1</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Brand>Dell</Brand>
-    <DiskType>SSD</DiskType>
-    <DiskSize>512</DiskSize>
-    <RAMSize>16</RAMSize>
-    <OS>Windows 11</OS>
+    <Vendor>Thunderobot</Vendor>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
     <Color>Чёрный</Color>
     <Devicework>Включается</Devicework>
     <AkbH>Больше 30 минут</AkbH>
@@ -61,12 +61,19 @@ C — ноутбуки с техническими нюансами, но в р�
     <KBCondition>Без дефектов</KBCondition>
     <Delivery>Самовывоз</Delivery>
     <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|2|100</PromoManualOptions>
     <Images>
-      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786826814364_laptop_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786826850053_laptop_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786826890959_laptop_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786826925684_laptop_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786826964423_laptop_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786879945167_laptop_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786879992507_laptop_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880046887_laptop_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880085655_laptop_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880128664_laptop_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_5.jpg"/>
     </Images>
   </Ad>
 </Ads>
