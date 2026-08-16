@@ -59,16 +59,106 @@ C — ноутбуки с техническими нюансами, но в р�
     <CaseCondition>Без дефектов</CaseCondition>
     <ScreenCondition>Без дефектов</ScreenCondition>
     <KBCondition>Без дефектов</KBCondition>
-    <Delivery>Самовывоз</Delivery>
+    <Delivery>
+      <Option>Выключена</Option>
+    </Delivery>
     <Quantity>1</Quantity>
     <Promo>Manual</Promo>
-    <PromoManualOptions>|2|100</PromoManualOptions>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>100</DailyLimit>
+      </Item>
+    </PromoManualOptions>
     <Images>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786879945167_laptop_1.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786879992507_laptop_2.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880046887_laptop_3.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880085655_laptop_4.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786880128664_laptop_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_5.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_00e16400</Id>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук ASUS ROG Strix</Title>
+    <Description>💻 Игровой ноутбук ASUS ROG Strix (GTX 1660 Ti / I7 10750H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+ASUS ROG Strix — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор I7 10750H и видеокарта GTX 1660 Ti уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — I7 10750H
+Видеокарта — GTX 1660 Ti
+Экран — 17,3" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>45000</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>ASUS</Vendor>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство, коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Выключена</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>100</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786897198801_laptop_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786897225718_laptop_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786897261765_laptop_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786897302629_laptop_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786897329778_laptop_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_1.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_2.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_3.jpg"/>
