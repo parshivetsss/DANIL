@@ -43,6 +43,7 @@ C — ноутбуки с техническими нюансами, но в р�
     <Price>45000</Price>
     <Currency>RUB</Currency>
     <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
     <AdType>Товар приобретен на продажу</AdType>
     <Address>Москва, Будайский пр., 7к1</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -126,6 +127,7 @@ C — ноутбуки с техническими нюансами, но в р�
     <Price>45000</Price>
     <Currency>RUB</Currency>
     <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
     <AdType>Товар приобретен на продажу</AdType>
     <Address>Москва, Будайский пр., 7к1</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -209,6 +211,7 @@ C — ноутбуки с техническими нюансами, но в р�
     <Price>80000</Price>
     <Currency>RUB</Currency>
     <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
     <AdType>Товар приобретен на продажу</AdType>
     <Address>Москва, Будайский пр., 7к1</Address>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
@@ -242,6 +245,90 @@ C — ноутбуки с техническими нюансами, но в р�
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786911476613_laptop_3.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786911506585_laptop_4.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1786911534279_laptop_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_5.jpg"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>danil_013bcf81</Id>
+    <AllowEmail>false</AllowEmail>
+    <Category>Ноутбуки</Category>
+    <Title>Игровой ноутбук Thunderobot 911 Air D</Title>
+    <Description>💻 Игровой ноутбук Thunderobot 911 Air D (RTX 3050 / i5-12450H)
+
+Перед заказом — просьба писать в чат!
+
+Здравствуйте! Меня зовут Данил. С 2016 года занимаюсь ноутбуками и помогаю подобрать проверенный вариант под задачи и бюджет.
+
+🧾 Напишите в чат «проверка ноутбука» — пришлю живое видео и чек-лист проведённых тестов.
+
+💻 О модели
+
+Thunderobot 911 Air D — сбалансированный ноутбук для работы, учёбы и игр. Связка процессор i5-12450H и видеокарта RTX 3050 уверенно тянет современные программы и игры. Ноутбук полностью протестирован и готов к работе.
+
+⚙️ Характеристики
+
+Процессор — i5-12450H
+Видеокарта — RTX 3050
+Экран — 15.6" 1920×1080
+ОЗУ — 8 / 16 / 32 / 64 ГБ
+SSD — 256 / 512 / 1024 / 2048 ГБ
+
+💰 Цена указана за комплектацию без SSD и ОЗУ. Можно бесплатно установить свои комплектующие или подобрать нужный объём перед покупкой.
+
+✅ Полная проверка перед продажей
+✅ Trade-in
+✅ Рассрочка / сплит
+✅ Установка ОЗУ и SSD
+✅ Доставка по Москве и РФ
+
+📩 Напишите в чат — покажу ноутбук и подробно расскажу о состоянии.
+
+📌 Категории состояния:
+
+A — новые ноутбуки в заводской коробке и полном комплекте.
+B — б/у ноутбуки с небольшими следами использования, полностью исправные и протестированные.
+C — ноутбуки с техническими нюансами, но в рабочем состоянии. На такие варианты действует дополнительная скидка.</Description>
+    <Price>46500</Price>
+    <Currency>RUB</Currency>
+    <Condition>Б/у</Condition>
+    <BoxSealed>Нет</BoxSealed>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Address>Москва, Будайский пр., 7к1</Address>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Vendor>Thunderobot</Vendor>
+    <DrivesConfig>SSD</DrivesConfig>
+    <DriveSize>512</DriveSize>
+    <RamSize>16</RamSize>
+    <OperatingSystem>Windows 11</OperatingSystem>
+    <Color>Чёрный</Color>
+    <Devicework>Включается</Devicework>
+    <AkbH>Больше 30 минут</AkbH>
+    <Set>Зарядное устройство, коробка</Set>
+    <KBLayout>Есть кириллица</KBLayout>
+    <CaseCondition>Без дефектов</CaseCondition>
+    <ScreenCondition>Без дефектов</ScreenCondition>
+    <KBCondition>Без дефектов</KBCondition>
+    <Delivery>
+      <Option>Выключена</Option>
+    </Delivery>
+    <Quantity>1</Quantity>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>2</Bid>
+        <DailyLimit>100</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1787054846296_laptop_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1787055002281_laptop_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1787055172066_laptop_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1787055338457_laptop_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/photos/1787055497790_laptop_5.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_1.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_2.jpg"/>
       <Image url="https://raw.githubusercontent.com/parshivetsss/DANIL/main/banners/banner_3.jpg"/>
